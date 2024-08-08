@@ -47,6 +47,12 @@ layout: default
           <li class="instagram"><a href="www.instagram.com/08_tb_658/hl-ko" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> 08_tb_658</a></li>
         {% endif %}
 
+        {% if site.google maps %}
+        <li class="google maps"><a href="https://www.google.co.kr/maps/" target="_blank"><i class="fa fa-google maps"></i> {{site.google maps}}</a></li>
+       {% else %}
+        <li class="google maps"><a href="" target="_blank"><i class="fa fa-google maps" aria-hidden="true"></i></a></li>
+       {% endif %}
+
 
       </ul>
     </div>
