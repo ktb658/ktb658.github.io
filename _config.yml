@@ -9,9 +9,9 @@ permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: Wendell Thomas
-tagline: Full Stack Developer
-about-description: # Add Discription
+name: 김태빈
+tagline: YMHS student
+about-description:저는 용문고 김태빈입니다 # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
