@@ -734,8 +734,8 @@ blockquote {
       text-transform: uppercase;
       line-height: 1.1;
       font-weight: 700;
-      border-bottom: 3px solid #F0F564;
-      border-top: 3px solid #F0F564;
+      border-bottom: 3px solid #FA5e00;
+      border-top: 3px solid #FA5e00;
       padding: 1rem 1.5rem;
       transition: ease-in-out .3s; }
       .header .logo .logo-link:hover {
